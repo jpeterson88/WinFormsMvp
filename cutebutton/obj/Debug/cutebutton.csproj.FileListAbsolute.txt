@@ -1,0 +1,11 @@
+C:\Users\jpete\source\repos\cutebutton\cutebutton\bin\Debug\cutebutton.exe.config
+C:\Users\jpete\source\repos\cutebutton\cutebutton\bin\Debug\cutebutton.exe
+C:\Users\jpete\source\repos\cutebutton\cutebutton\bin\Debug\cutebutton.pdb
+C:\Users\jpete\source\repos\cutebutton\cutebutton\obj\Debug\cutebutton.Properties.Resources.resources
+C:\Users\jpete\source\repos\cutebutton\cutebutton\obj\Debug\cutebutton.csproj.GenerateResource.cache
+C:\Users\jpete\source\repos\cutebutton\cutebutton\obj\Debug\cutebutton.csproj.CoreCompileInputs.cache
+C:\Users\jpete\source\repos\cutebutton\cutebutton\obj\Debug\cutebutton.exe
+C:\Users\jpete\source\repos\cutebutton\cutebutton\obj\Debug\cutebutton.pdb
+C:\Users\jpete\source\repos\cutebutton\cutebutton\obj\Debug\cutebutton.Form1.resources
+C:\Users\jpete\source\repos\cutebutton\cutebutton\obj\Debug\cutebutton.csprojAssemblyReference.cache
+C:\Users\jpete\source\repos\cutebutton\cutebutton\obj\Debug\cutebutton.GDIForm.resources
