@@ -47,6 +47,8 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Model\GameRating.cs" />
+    <Compile Include="Repository\GameRatingRepository.cs" />
+    <Compile Include="Repository\IGameRatingRepository.cs" />
     <Compile Include="View\Interfaces\IGameRatingEditView.cs" />
     <Compile Include="View\GameRatingForm.cs">
       <SubType>Form</SubType>
@@ -54,6 +56,7 @@
     <Compile Include="View\GameRatingForm.Designer.cs">
       <DependentUpon>GameRatingForm.cs</DependentUpon>
     </Compile>
+    <Compile Include="View\Interfaces\IGameRatingFormView.cs" />
     <Compile Include="View\Interfaces\IGameRatingSelectionView.cs" />
     <Compile Include="Presenter\GameRatingEditPresenter.cs" />
     <Compile Include="Program.cs" />
@@ -79,6 +82,12 @@
       <AutoGen>True</AutoGen>
       <DependentUpon>Resources.resx</DependentUpon>
     </Compile>
+    <EmbeddedResource Include="View\Controls\GameRatingEditView.resx">
+      <DependentUpon>GameRatingEditView.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View\Controls\GameRatingSelectionView.resx">
+      <DependentUpon>GameRatingSelectionView.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="View\GameRatingForm.resx">
       <DependentUpon>GameRatingForm.cs</DependentUpon>
     </EmbeddedResource>
@@ -95,8 +104,6 @@
   <ItemGroup>
     <None Include="App.config" />
   </ItemGroup>
-  <ItemGroup>
-    <Folder Include="Repository\" />
-  </ItemGroup>
+  <ItemGroup />
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

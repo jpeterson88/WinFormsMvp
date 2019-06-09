@@ -25,7 +25,7 @@ namespace cutebutton.Controls
             graphics.DrawLine(myPen, 20, 10, 300, 100);
         }
 
-        private void Setup()
+        public void Setup()
         {
             listView1 = new ListView();
 

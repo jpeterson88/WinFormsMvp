@@ -12,7 +12,7 @@ namespace MvpProject.Presenter
 
         GameRating SelectedGameRating { get; set; }
 
-        List<GameRating> LoadGameRatings();
+        void LoadGameRatings(List<GameRating> gameRatings);
         GameRating EditGameRating();
     }
 }

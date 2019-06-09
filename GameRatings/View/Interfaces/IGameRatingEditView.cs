@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace MvpProject.Presenter
+namespace MvpProject.View.Interfaces
 {
     public interface IGameRatingEditView
     {

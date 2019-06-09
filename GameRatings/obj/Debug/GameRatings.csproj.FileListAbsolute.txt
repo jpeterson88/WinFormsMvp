@@ -8,3 +8,4 @@ C:\Users\jpete\source\repos\cutebutton\GameRatings\bin\Debug\MvpProject.exe
 C:\Users\jpete\source\repos\cutebutton\GameRatings\bin\Debug\MvpProject.pdb
 C:\Users\jpete\source\repos\cutebutton\GameRatings\obj\Debug\MvpProject.exe
 C:\Users\jpete\source\repos\cutebutton\GameRatings\obj\Debug\MvpProject.pdb
+C:\Users\jpete\source\repos\cutebutton\GameRatings\obj\Debug\MvpProject.View.GameRatingSelectionView.resources
