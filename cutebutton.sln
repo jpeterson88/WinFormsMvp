@@ -7,7 +7,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "cutebutton", "cutebutton\cu
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{9DB2BFE7-DF48-4FFF-8C4B-F5A3196A1ACB}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GameRatings", "MvpProject\GameRatings.csproj", "{4D185AEB-7F7F-4757-BB2C-CEFB4DFE1084}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GameRatings", "GameRatings\GameRatings.csproj", "{4D185AEB-7F7F-4757-BB2C-CEFB4DFE1084}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

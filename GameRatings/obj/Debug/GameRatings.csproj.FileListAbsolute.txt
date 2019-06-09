@@ -1,0 +1,10 @@
+C:\Users\jpete\source\repos\cutebutton\GameRatings\obj\Debug\GameRatings.csprojAssemblyReference.cache
+C:\Users\jpete\source\repos\cutebutton\GameRatings\obj\Debug\MvpProject.Properties.Resources.resources
+C:\Users\jpete\source\repos\cutebutton\GameRatings\obj\Debug\MvpProject.GameRatingForm.resources
+C:\Users\jpete\source\repos\cutebutton\GameRatings\obj\Debug\GameRatings.csproj.GenerateResource.cache
+C:\Users\jpete\source\repos\cutebutton\GameRatings\obj\Debug\GameRatings.csproj.CoreCompileInputs.cache
+C:\Users\jpete\source\repos\cutebutton\GameRatings\bin\Debug\MvpProject.exe.config
+C:\Users\jpete\source\repos\cutebutton\GameRatings\bin\Debug\MvpProject.exe
+C:\Users\jpete\source\repos\cutebutton\GameRatings\bin\Debug\MvpProject.pdb
+C:\Users\jpete\source\repos\cutebutton\GameRatings\obj\Debug\MvpProject.exe
+C:\Users\jpete\source\repos\cutebutton\GameRatings\obj\Debug\MvpProject.pdb
