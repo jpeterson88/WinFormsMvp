@@ -9,3 +9,8 @@ C:\Users\jpete\source\repos\cutebutton\GameRatings\bin\Debug\MvpProject.pdb
 C:\Users\jpete\source\repos\cutebutton\GameRatings\obj\Debug\MvpProject.exe
 C:\Users\jpete\source\repos\cutebutton\GameRatings\obj\Debug\MvpProject.pdb
 C:\Users\jpete\source\repos\cutebutton\GameRatings\obj\Debug\MvpProject.View.GameRatingSelectionView.resources
+C:\Users\jpete\source\repos\cutebutton\GameRatings\bin\Debug\Newtonsoft.Json.dll
+C:\Users\jpete\source\repos\cutebutton\GameRatings\bin\Debug\Newtonsoft.Json.xml
+C:\Users\jpete\source\repos\cutebutton\GameRatings\obj\Debug\MvpProject.View.GameRatingEditView.resources
+C:\Users\jpete\source\repos\cutebutton\GameRatings\obj\Debug\GameRatings.csproj.CopyComplete
+C:\Users\jpete\source\repos\cutebutton\GameRatings\bin\Debug\gameRatings.json

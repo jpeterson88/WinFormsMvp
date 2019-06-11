@@ -8,3 +8,4 @@ C:\Users\jpete\source\repos\cutebutton\cutebutton\obj\Debug\cutebutton.exe
 C:\Users\jpete\source\repos\cutebutton\cutebutton\obj\Debug\cutebutton.pdb
 C:\Users\jpete\source\repos\cutebutton\cutebutton\obj\Debug\cutebutton.Form1.resources
 C:\Users\jpete\source\repos\cutebutton\cutebutton\obj\Debug\cutebutton.GDIForm.resources
+C:\Users\jpete\source\repos\cutebutton\cutebutton\obj\Debug\cutebutton.csprojAssemblyReference.cache

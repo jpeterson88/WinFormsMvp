@@ -9,6 +9,7 @@ namespace MvpProject.Presenter
         event EventHandler GameRatingCreate;
         event EventHandler GameRatingSelected;
         event EventHandler GameRatingDeleted;
+        event EventHandler GameRatingEdit;
 
         GameRating SelectedGameRating { get; set; }
 

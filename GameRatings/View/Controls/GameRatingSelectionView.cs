@@ -22,26 +22,22 @@ namespace MvpProject.View
 
         private void createButton_Click(object sender, EventArgs e)
         {
-            if (GameRatingCreate != null)
-                GameRatingCreate(sender, e);
+            GameRatingCreate?.Invoke(sender, e);
         }
 
         private void editButton_Click(object sender, EventArgs e)
         {
-            if (GameRatingEdit != null)
-                GameRatingEdit(sender, e);
+            GameRatingEdit?.Invoke(sender, e);
         }
 
         private void deleteButton_Click(object sender, EventArgs e)
         {
-            if (GameRatingDeleted != null)
-                GameRatingDeleted(sender, e);
+            GameRatingDeleted?.Invoke(sender, e);
         }
 
         private void gameRating_Click(object sender, EventArgs e)
         {
-            if (GameRatingSelected != null)
-                GameRatingSelected(sender, e);
+            GameRatingSelected?.Invoke(sender, e);
         }
 
         public void LoadGameRatings(List<GameRating> gameRatings)

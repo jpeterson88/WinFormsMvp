@@ -1,4 +1,5 @@
 ﻿using MvpProject.Presenter;
+using MvpProject.Repository;
 using MvpProject.View;
 using MvpProject.View.Interfaces;
 using System.Windows.Forms;
@@ -7,19 +8,13 @@ namespace MvpProject
 {
     public partial class GameRatingForm : Form, IGameRatingFormView
     {
+        private IGameRatingRepository _gameRatingRepository;
         public GameRatingForm()
         {
             InitializeComponent();
+            _gameRatingRepository = new GameRatingRepository();
             SetControl(ControlType.GameRatingSelect);
         }
-        //public GameRatingForm(IGameRatingEditView gameRatingEditView,
-        //    IGameRatingSelectionView gameRatingSelectionView)
-        //{
-        //    GameRatingEditView = gameRatingEditView;
-        //    GameRatingSelectionView = gameRatingSelectionView;
-        //    InitializeComponent();
-        //    SwitchControl(ControlType.GameRatingSelect);
-        //}
 
         public IGameRatingEditView GameRatingEditView { get; set; }
         public IGameRatingSelectionView GameRatingSelectionView { get; set; }
@@ -33,7 +28,10 @@ namespace MvpProject
             }
             else
             {
-                groupBox.Controls.Add(new GameRatingSelectionView());
+                var gameRatingSelectionView = new GameRatingSelectionView();
+                var gameRatingSelectionPresenter = new GameRatingSelectionPresenter(gameRatingSelectionView, _gameRatingRepository);
+
+                groupBox.Controls.Add(gameRatingSelectionView);
             }
         }
     }
